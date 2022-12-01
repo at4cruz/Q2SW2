@@ -1,0 +1,41 @@
+ h1{
+   font-size: 55px;
+}
+th{
+   font-family: 'Roboto';
+}
+#id1{
+   color: lightskyblue;
+   border-style: solid;
+   border-color: whitesmoke;
+   margin: 20%;
+   padding: 15px;
+}
+#id2{
+   color: lightpink;
+   border-style: solid;
+   border-color: whitesmoke;
+   margin: 20%;
+   padding: 15px;
+}
+#id3{
+   background-color:lightgrey ;
+   font font-family: 'Dosis' monospace;
+   font-size: 20pt;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+#id4{
+text-shadow: 2px 2px 5px;
+border-style: solid;
+   border-color: whitesmoke;
+   margin: 20%;
+   padding: 15px;
+}
+#id5{
+text-decoration: line-through;
+border-style: dotted;
+   border-color: whitesmoke;
+   margin: 30%;
+   padding: 25px;
+}
